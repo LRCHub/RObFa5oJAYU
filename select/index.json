@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Apologize",
+  "base_artist": "Timbaland",
+  "createdAt": "2026-02-28T06:57:43.752212Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Apologize",
+      "artist": "Timbaland Feat. OneRepublic",
+      "has_synced": true,
+      "path": "select/01_Apologize_Timbaland_Feat._OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Apologize",
+      "artist": "Timbaland OneRepublic",
+      "has_synced": true,
+      "path": "select/02_Apologize_Timbaland_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Will Not Apologize",
+      "artist": "The Roots feat. Porn & Dice Raw",
+      "has_synced": true,
+      "path": "select/03_I_Will_Not_Apologize_The_Roots_feat._Porn_&_Dice_Raw.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Apologize",
+      "artist": "Tee Grizzley",
+      "has_synced": true,
+      "path": "select/04_I_Apologize_Tee_Grizzley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "APOLOGIZE",
+      "artist": "Baby Keem",
+      "has_synced": true,
+      "path": "select/05_APOLOGIZE_Baby_Keem.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Apologize",
+      "artist": "Hüsker Dü",
+      "has_synced": true,
+      "path": "select/06_I_Apologize_Hüsker_Dü.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Apologize",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/07_Apologize_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Apologize",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/08_Apologize_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Apologize (OneRepublic Version)",
+      "artist": "OneRepublic (Timbaland presents OneRepublic)",
+      "has_synced": true,
+      "path": "select/09_Apologize_(OneRepublic_Version)_OneRepublic_(Timbaland_presents_OneRepublic).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Apologize (Timbaland Remix) (Bonus)",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/10_Apologize_(Timbaland_Remix)_(Bonus)_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Apologize (Timbaland presents OneRepublic)",
+      "artist": "OneRepublic (Timbaland presents OneRepublic)",
+      "has_synced": true,
+      "path": "select/11_Apologize_(Timbaland_presents_OneRepublic)_OneRepublic_(Timbaland_presents_OneRepublic).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Apologize (album version)",
+      "artist": "Timbaland presents OneRepublic",
+      "has_synced": true,
+      "path": "select/12_Apologize_(album_version)_Timbaland_presents_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Apologize (album version)",
+      "artist": "Timbaland / OneRepublic",
+      "has_synced": true,
+      "path": "select/13_Apologize_(album_version)_Timbaland___OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Apologize (instrumental)",
+      "artist": "Timbaland presents OneRepublic",
+      "has_synced": true,
+      "path": "select/14_Apologize_(instrumental)_Timbaland_presents_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Apologize (instrumental)",
+      "artist": "Timbaland / OneRepublic",
+      "has_synced": true,
+      "path": "select/15_Apologize_(instrumental)_Timbaland___OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Back To December / Apologize / You're Not Sorry - Live 2011",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/16_Back_To_December___Apologize___You're_Not_Sorry_-_Live_2011_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Back To December-Apologize-You're Not Sorry",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/17_Back_To_December-Apologize-You're_Not_Sorry_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Won't Apologize",
+      "artist": "Selena Gomez & The Scene",
+      "has_synced": true,
+      "path": "select/18_I_Won't_Apologize_Selena_Gomez_&_The_Scene.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Apologize",
+      "artist": "Timbaland",
+      "has_synced": false,
+      "path": "select/pl_01_Apologize_Timbaland.txt"
+    }
+  ]
+}
